@@ -9,12 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A digital power-on reset (PoR) circuit, based on [US 6278302 B1](https://patents.google.com/patent/US6278302B1/en), Fig. 1 and accompanying text.
 
 ## How to test
 
-Explain how to use your project
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Clock the circuit with a 1 MHz clock, and observe the reset_n_long and reset_n_short outputs.
